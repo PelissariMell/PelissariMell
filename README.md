@@ -1,16 +1,14 @@
-## Hi there 👋
+# PelissariMel
 
-<!--
-**PelissariMell/PelissariMell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ' SEJA BEM VINDO AO MEU PERFIL ^^ ' ⭐
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura](https://www.alura.com.br) 📖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na Linguagem Javascript. 🔖⭐
+
+-Irei utilizar este espaço para guardar e compartilhar conteúdo da aula que utiliza o código do Javascript, atráves do uso do P5.js
+
+### Caso queira entrar em contato comigo : 🤠🤙
+_00001094174178sp@al.educacao.sp.gov.br_
+
+![](https://media1.tenor.com/m/Hz6e-AxE6qoAAAAC/monkey-monkey-jumping-off-woman.gif)

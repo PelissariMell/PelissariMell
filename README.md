@@ -7,6 +7,7 @@
 -Estou me desenvolvendo na Linguagem Javascript. 🔖⭐
 
 -Irei utilizar este espaço para guardar e compartilhar conteúdo da aula que utiliza o código do Javascript, atráves do uso do P5.js
+e o uso do Visual Studio (que por sinal é maravilhoso)
 
 ### Caso queira entrar em contato comigo : 🤠🤙
 _00001094174178sp@al.educacao.sp.gov.br_
